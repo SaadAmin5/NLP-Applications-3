@@ -10,6 +10,7 @@ monkey and banana and think of an example of your own.
 ● Run the example file on with the simpler language model ‘en_core_web_sm’
 and write a note on what you notice may be different from the model
 'en_core_web_md'
+
 Practical Task 2
 Let us build a system that will tell you what to watch next based on the word
 vector similarity of the description of movies.
